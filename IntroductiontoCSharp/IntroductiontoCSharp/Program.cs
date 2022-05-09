@@ -21,6 +21,11 @@ namespace IntroductiontoCSharp
             Console.WriteLine("Give Acceleration: ");
             acceleration = float.Parse(Console.ReadLine()); // Reading the input from user and parsing to float 
             Console.WriteLine("Force: {0}", mass * acceleration);
+            //Checking Radius and Area Info
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("Radius: {0}, Area: {1}", i, Math.PI * 2 * i);
+            }
             Console.ReadLine();
            
         }
