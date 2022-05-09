@@ -15,7 +15,7 @@ public abstract class Enemy : MonoBehaviour
 }
 public class Robot: Enemy
 {
-    public override void Attack()
+   public override void Attack()
     {
         Debug.Log("This is Attack Method");
     }
@@ -23,4 +23,9 @@ public class Robot: Enemy
     {
         base.Die();
     }
+    /*
+    public void Damage(int f)
+    {
+        Debug.Log("The passed value: ")
+    }*/
 }
