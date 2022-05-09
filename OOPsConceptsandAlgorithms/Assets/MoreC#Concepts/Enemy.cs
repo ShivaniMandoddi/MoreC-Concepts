@@ -2,17 +2,25 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enemy : MonoBehaviour
+public abstract class Enemy : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public int speed;
+    public int health;
+    public abstract void Attack();
+    public virtual void Die()
     {
-        
+        Debug.Log("I am Dead");
     }
-
-    // Update is called once per frame
-    void Update()
+    
+}
+public class Robot: Enemy
+{
+    public override void Attack()
     {
-        
+        Debug.Log("This is Attack Method");
+    }
+    public override void Die()
+    {
+        base.Die();
     }
 }
