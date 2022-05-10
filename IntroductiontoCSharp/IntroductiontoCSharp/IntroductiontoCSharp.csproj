@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>IntroductiontoCSharp.StringExample</StartupObject>
+    <StartupObject>IntroductiontoCSharp.SelectionConcept</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
     <NoWin32Manifest>true</NoWin32Manifest>
@@ -52,6 +52,7 @@
     <Compile Include="CardGame.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SelectionConcept.cs" />
     <Compile Include="StringExample.cs" />
   </ItemGroup>
   <ItemGroup>
