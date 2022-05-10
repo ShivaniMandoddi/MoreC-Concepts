@@ -26,6 +26,13 @@ namespace IntroductiontoCSharp
             {
                 Console.WriteLine("Radius: {0}, Area: {1}", i, Math.PI * 2 * i);
             }
+            CardGame firstCard = new CardGame("Ace", "Spades");
+            CardGame secondCard = new CardGame("Jack", "Diamonds");
+            CardGame thirdCard = new CardGame("Queen", "Hearts");
+            Console.WriteLine(thirdCard.Rank + " of " + thirdCard.Suit);
+            Console.WriteLine(secondCard.Rank + " of " + secondCard.Suit);
+            Console.WriteLine(firstCard.Rank + " of " + firstCard.Suit);
+
             Console.ReadLine();
            
         }

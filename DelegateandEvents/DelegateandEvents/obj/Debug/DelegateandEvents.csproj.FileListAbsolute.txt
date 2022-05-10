@@ -1,0 +1,7 @@
+C:\Users\Shivani.Mandoddi\Desktop\C# Concepts\DelegateandEvents\DelegateandEvents\bin\Debug\DelegateandEvents.exe.config
+C:\Users\Shivani.Mandoddi\Desktop\C# Concepts\DelegateandEvents\DelegateandEvents\bin\Debug\DelegateandEvents.exe
+C:\Users\Shivani.Mandoddi\Desktop\C# Concepts\DelegateandEvents\DelegateandEvents\bin\Debug\DelegateandEvents.pdb
+C:\Users\Shivani.Mandoddi\Desktop\C# Concepts\DelegateandEvents\DelegateandEvents\obj\Debug\DelegateandEvents.csproj.AssemblyReference.cache
+C:\Users\Shivani.Mandoddi\Desktop\C# Concepts\DelegateandEvents\DelegateandEvents\obj\Debug\DelegateandEvents.csproj.CoreCompileInputs.cache
+C:\Users\Shivani.Mandoddi\Desktop\C# Concepts\DelegateandEvents\DelegateandEvents\obj\Debug\DelegateandEvents.exe
+C:\Users\Shivani.Mandoddi\Desktop\C# Concepts\DelegateandEvents\DelegateandEvents\obj\Debug\DelegateandEvents.pdb

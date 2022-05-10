@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{20FAAC7B-D475-4E22-B3E4-D530D2288E71}</ProjectGuid>
+    <ProjectGuid>{63146E9B-D164-4821-AE5D-BAC1F7387841}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>IntroductiontoCSharp</RootNamespace>
-    <AssemblyName>IntroductiontoCSharp</AssemblyName>
+    <RootNamespace>DelegateandEvents</RootNamespace>
+    <AssemblyName>DelegateandEvents</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CardGame.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
